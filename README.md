@@ -1,6 +1,6 @@
 # faceapp
 modified updated fork of my senior capstone project. realtime facial emotion ecognition with NN.
-# Faceapp Analyics Tool demo
+# Faceapp Analysis Tool demo
 
 This project aims at recognizing facial emotions and head pose estimation in realtime via webcam. Multiple available datasets such as KDEF, RAF and FER2013 for emotion recognition were explored. emotion model uses Convolutional Neural Network with Dense Layer to determine the emotion of the person. It uses VGG 19 as the base model. dlib and opencv is used to detect faces. various researched pnp algorithms have been used to calculate headpose. GUI created with tkinter
 
